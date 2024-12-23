@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fyv4RiYNe6c=",
+  "dgSpecHash": "w+GUCV1pt74=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rarap\\source\\repos\\test pong\\test pong\\test pong.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\rarap\\Source\\Repos\\Projet-Pong\\test pong\\test pong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rarap\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\rarap\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

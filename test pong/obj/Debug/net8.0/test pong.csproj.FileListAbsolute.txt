@@ -1,0 +1,5 @@
+C:\Users\rarap\Source\Repos\Projet-Pong\test pong\obj\Debug\net8.0\test pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarap\Source\Repos\Projet-Pong\test pong\obj\Debug\net8.0\test pong.AssemblyInfoInputs.cache
+C:\Users\rarap\Source\Repos\Projet-Pong\test pong\obj\Debug\net8.0\test pong.AssemblyInfo.cs
+C:\Users\rarap\Source\Repos\Projet-Pong\test pong\obj\Debug\net8.0\test pong.csproj.CoreCompileInputs.cache
+C:\Users\rarap\Source\Repos\Projet-Pong\test pong\obj\Debug\net8.0\test pong.sourcelink.json
