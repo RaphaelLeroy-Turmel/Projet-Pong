@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("test pong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3789ead3cb852e6a3a7a3f7931872896fc7879c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6292baf64053559d3d0f8b2a1461d90fcbc1f338")]
 [assembly: System.Reflection.AssemblyProductAttribute("test pong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("test pong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
